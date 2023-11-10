@@ -74,7 +74,7 @@
   <body class="d-flex align-items-center py-4 bg-body-tertiary">
     <main class="form-signin w-100 m-auto">
       <form method="post">
-      <img class="mb-4" src="image\activity-logo-913-6531.png" alt="" width="300" height="250">
+      <img class="mb-4" src="image\logo.png" alt="" width="300" height="250">
         <!-- <img class="mb-4" src="/docs/5.3/assets/brand/bootstrap-logo.svg" alt="" width="72" height="57"> -->
         <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
 <?php

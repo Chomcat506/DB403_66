@@ -71,7 +71,7 @@
       <!-- form -->
       <form action="signup.php" method="post" onsubmit="validate()">
 
-        <img class="mb-4" src="image\activity-logo-913-6531.png" alt="" width="300" height="250">
+        <img class="mb-4" src="image\logo.png" alt="" width="300" height="250">
         <h1 class="h3 mb-3 fw-normal">Please sign up</h1>
 <?php
 if(isset($err)){
